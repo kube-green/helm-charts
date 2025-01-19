@@ -2,6 +2,17 @@ apiVersion: v1
 entries:
   kube-green:
   - apiVersion: v2
+    appVersion: 0.7.0
+    created: "2025-01-19T17:33:58.280847048Z"
+    description: kube-green helm chart
+    digest: 77bd9e8f2d47e0d82b6fb9f81a6f1c85c77d17e249a689d925ea46deb7f63874
+    icon: https://raw.githubusercontent.com/kube-green/kube-green/main/logo/logo.svg
+    name: kube-green
+    type: application
+    urls:
+    - https://github.com/kube-green/helm-charts/releases/download/kube-green-0.7.0/kube-green-0.7.0.tgz
+    version: 0.7.0
+  - apiVersion: v2
     appVersion: 0.6.0
     created: "2024-11-11T22:33:07.108227344Z"
     description: kube-green helm chart
@@ -12,4 +23,4 @@ entries:
     urls:
     - https://github.com/kube-green/helm-charts/releases/download/kube-green-0.6.0/kube-green-0.6.0.tgz
     version: 0.6.0
-generated: "2024-11-11T22:33:07.108238024Z"
+generated: "2025-01-19T17:33:58.280860182Z"
